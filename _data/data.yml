@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Alston Yang
     tagline: HS graduate, best Dunk City Dynasty and Valorant and Apex Player in 12E
-    avatar: IMG_778s.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: pp.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: s10353@kcis.com.tw
@@ -95,6 +95,3 @@ projects:
       - title: "Data Lab"
         link: "#"
         tagline: "use data to retreive information fro some weather purpose."
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
